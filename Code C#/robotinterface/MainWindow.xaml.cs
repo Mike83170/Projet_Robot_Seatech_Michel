@@ -101,7 +101,7 @@ namespace Robotinterface
 
         private void buttonClear_Click(object sender, RoutedEventArgs e)
         {
-            receivedtext = "";
+            receivedtext = "" + "Toto";
             rec.Text = receivedtext;
         }
 
