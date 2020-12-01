@@ -1,0 +1,22 @@
+C:\Github\Enseignement\Projet électronique\Code Source\ReliableSerialPort\ReliableSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Github\Enseignement\Projet électronique\Code Source\ReliableSerialPort\ReliableSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Github\Enseignement\Projet électronique\Code Source\ReliableSerialPort\ReliableSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Github\Enseignement\Projet électronique\Code Source\ReliableSerialPort\ReliableSerialPort\obj\Debug\ExtendedSerialPort.csproj.CoreCompileInputs.cache
+C:\Github\Enseignement\Projet électronique\Code Source\ReliableSerialPort\ReliableSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Github\Enseignement\Projet électronique\Code Source\ReliableSerialPort\ReliableSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Projet\RobotWPF\RobotInterfaceAttouWajdi\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Projet\RobotWPF\RobotInterfaceAttouWajdi\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Projet\RobotWPF\RobotInterfaceAttouWajdi\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Projet\RobotWPF\RobotInterfaceAttouWajdi\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Projet\RobotWPF\RobotInterfaceAttouWajdi\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Users\utilisateur\Desktop\tpele\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\utilisateur\Desktop\tpele\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\utilisateur\Desktop\tpele\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\utilisateur\Desktop\tpele\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csproj.CoreCompileInputs.cache
+C:\Users\utilisateur\Desktop\tpele\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\utilisateur\Desktop\tpele\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
+C:\Users\TP-EO-5\Desktop\TP MAX HOUSSEM 2\tpele\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.dll
+C:\Users\TP-EO-5\Desktop\TP MAX HOUSSEM 2\tpele\ExtendedSerialPort\bin\Debug\ExtendedSerialPort.pdb
+C:\Users\TP-EO-5\Desktop\TP MAX HOUSSEM 2\tpele\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.csprojAssemblyReference.cache
+C:\Users\TP-EO-5\Desktop\TP MAX HOUSSEM 2\tpele\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.dll
+C:\Users\TP-EO-5\Desktop\TP MAX HOUSSEM 2\tpele\ExtendedSerialPort\obj\Debug\ExtendedSerialPort.pdb
